@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:21.240583
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:57
 #+TITLE: 南天竺國菩提達摩禪師觀門
 #+PROPERTY: CBETA_ID T85n2832
 #+PROPERTY: ID KR6q0104
